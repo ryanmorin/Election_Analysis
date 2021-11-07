@@ -33,10 +33,9 @@ Two members of the Colorado Board of Elections' election audit committee have as
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 * Diana DeGette won the election. Diana DeGette had 73.8% of the total vote and a vote count of 272,892
 
+[Challenge - Election Results](election_results.txt)
+
 ## Summary
 The winner in this election was the candidate who received the greatest share of the popular vote.  Not all elections are decided by the popular vote. Therefore to use this script for any election, additional logic would need to be included that determines the appropriate rules to choose the winner.
 
 The output of the summary is in english. To use this script for any election the output would need to be tailored to the local language.
-
-
-[Challenge - Election Results](election_results.txt)
