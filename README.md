@@ -14,8 +14,30 @@ Two members of the Colorado Board of Elections' election audit committee have as
 
 ## Election-Audit Results
 
+### How many votes were cast in this congressional election?
+* 369,711 votes were cast
+
+### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* Araphone county had 6.7% of the total votes and a vote count total of 24,801
+* Denver county had 82.8% of the total votes and a vote count of 306,055
+* Jefferson county had 10.5% of the total votes and a vote count of 38,855
+
+### Which county had the largest number of votes
+* Denver county had the largest number of votes 82.8% of the total (306,055)
+
+### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+* Diana DeGette had 73.8% of the total vote and a vote count of 272,892
+* Raymon Anthony Doane had 3.1% of the total vote and a vote count of 111,606
+* Charles Casper Stockham had 23.0% of the total vote and a vote count of 85,213
+
+### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+* Diana DeGette won the election. Diana DeGette had 73.8% of the total vote and a vote count of 272,892
 
 ## Summary
+This Colorado election determines the winner as the candidate who receives the greatest share of the popular vote.  Not all elections are decided by the popular vote.  Therefore to use this script for any election, additional logic would need to be included that:
+ a.asks the user what rules will determine the winner.
+
+
 
 Challenge Overview
 
