@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of Election Audit
-Two members of the Colorado Board of Elections' election audit committee have asked for help to prepare a program that summarizes the county's election results and saves the results of the audit to a text file. The program will need to be able to provide the following infomration:
+Two members of the Colorado Board of Elections' election audit committee have asked for help to prepare a program that summarizes the county's election results and saves the results of the audit to a text file. The program will need to be able to provide the following information:
 
   * Total numer of votes cast
   * A complete list of candidates who received votes
@@ -34,11 +34,9 @@ Two members of the Colorado Board of Elections' election audit committee have as
 * Diana DeGette won the election. Diana DeGette had 73.8% of the total vote and a vote count of 272,892
 
 ## Summary
-This Colorado election determines the winner as the candidate who receives the greatest share of the popular vote.  Not all elections are decided by the popular vote.  Therefore to use this script for any election, additional logic would need to be included that:
- a.asks the user what rules will determine the winner.
+The winner in this election was the candidate who received the greatest share of the popular vote.  Not all elections are decided by the popular vote. Therefore to use this script for any election, additional logic would need to be included that determines the appropriate rules to choose the winner.
+
+The output of the summary is in english. To use this script for any election the output would need to be tailored to the local language.
 
 
-
-Challenge Overview
-
-Challenge Summary
+[Challenge - Election Results]()
