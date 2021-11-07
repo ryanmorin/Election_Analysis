@@ -39,4 +39,4 @@ The winner in this election was the candidate who received the greatest share of
 The output of the summary is in english. To use this script for any election the output would need to be tailored to the local language.
 
 
-[Challenge - Election Results]()
+[Challenge - Election Results](election_results.txt)
