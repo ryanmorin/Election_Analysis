@@ -12,6 +12,8 @@ Two members of the Colorado Board of Elections' election audit committee have as
   * The percentage of votes from each county out of the total count
   * The county with the highest turnout
 
+![Screenshot from terminal]()
+
 ## Election-Audit Results
 
 ### How many votes were cast in this congressional election?
